@@ -1,0 +1,38 @@
+{
+  "id": "b5acb9a8-2ce5-4930-9ad1-2e4d6d23763f",
+  "name": "cool.ItemMasterStellantis",
+  "publisher": "mentempowermentcoachingconsultinggmbh1626955207736",
+  "version": "23.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "621ecb05-780d-4cb4-8f1f-c12e87fb048f",
+      "name": "cool.partslogi",
+      "publisher": "mentempowermentcoachingconsultinggmbh1626955207736",
+      "version": "23.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "23.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 70000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "12.0",
+  "features": [ "TranslationFile" ],
+  "target": "OnPrem"
+}
